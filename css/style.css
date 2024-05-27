@@ -1,1 +1,14 @@
 @import url(variables.css);
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    background-color: var(--color-1);
+}
+
+.logo img{
+    width:120vw;
+    margin-top:35vw;
+    margin-left:-9vw ;
+}
