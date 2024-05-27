@@ -31,3 +31,14 @@ body{
     margin-top: -15vw;
     margin-left: 11.5vw;
 }
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding:2vw
+}
+
+.img2{
+    width:35vw;
+    margin-left: 3vw;
+}
