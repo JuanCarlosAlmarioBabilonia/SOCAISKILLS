@@ -1,3 +1,9 @@
 :root{
     --color-1: #000000;
+    --color-2: #FFFFFF;
+}
+
+@font-face {
+    font-family: "Fuente";
+    src: url(../storage/fonts/Cutive-Regular.ttf);
 }

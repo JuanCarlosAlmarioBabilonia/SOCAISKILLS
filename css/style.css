@@ -12,3 +12,29 @@ body{
     margin-top:35vw;
     margin-left:-9vw ;
 }
+.botonPrincipal{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: var(--color-2);
+    border-radius: 4vw;
+    text-align: center;
+    width:50vw;
+    margin-left: 23vw;
+    padding:2vw
+}
+
+.botonPrincipal img{
+    width:13vw;
+    margin-left: -5vw;
+    margin-top: vw;
+}
+
+.boton{
+    text-decoration: none;
+    margin-left: -2vw;
+    margin-top: 1.5vw;
+    font-family: "Fuente";
+    color: var(--color-1);
+    font-size: 3.2vw;
+}
+
