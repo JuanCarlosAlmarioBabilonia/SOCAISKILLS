@@ -1,6 +1,10 @@
 :root{
     --color-1: #000000;
     --color-2: #FFFFFF;
+    --color-3:#ECAEE6;
+    --color-4:#F4D03F;
+    --color-5:#85C1E9;
+    --color-6:#48C9B0;
 }
 
 @font-face {

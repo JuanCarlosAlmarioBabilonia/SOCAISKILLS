@@ -2,7 +2,80 @@
 *{
     margin: 0;
     padding:0;
+    font-family: "Fuente";
 }
 body{
     background-color: var(--color-1);
 }
+
+.header{
+    display:flex;
+    color: var(--color-2);
+    justify-content: space-between;
+    padding: 2vw
+}
+
+.header p{
+    margin-top: 2.5vw;
+    font-size: 5vw;
+}
+
+.grupo{
+    display: flex;
+    justify-content: space-between;
+    padding: 2vw;
+    color: var(--color-3)
+}
+
+
+.grupo p{
+    font-size: 3.5vw;
+    margin-top: 3vw;
+}
+
+.moduloBasico{
+    padding:2vw;
+    margin-top: 5vw;
+    background-color: var(--color-4) ;
+}
+
+.moduloIntermedio{
+    padding:2vw;
+}
+
+.moduloAvanzado{
+    padding:2vw;
+}
+
+.seccionBasico{
+    margin-top: 3vw;
+    margin-bottom: 3vw;
+    padding:2vw ;
+}
+
+.seccionBasico a{
+    text-decoration: none;
+    color: var(--color-2)
+}
+
+.mbPrincipal,
+.maPrincipal{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 4vw;
+}
+
+.mbPrincipal{
+    background-color: var(--color-5);
+}
+
+.maPrincipal{
+    background-color: var(--color-6);
+}
+
+.cand1{
+    width:10vw;
+    height:10vw;
+    margin-top: 3.5vw;
+}
+
