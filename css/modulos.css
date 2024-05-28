@@ -58,6 +58,10 @@ body{
     color: var(--color-2)
 }
 
+.seccionBasico span{
+    color: var(--color-4)
+}
+
 .mbPrincipal,
 .maPrincipal{
     display: flex;
